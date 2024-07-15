@@ -11,7 +11,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sunac.com.cn
 // @require      http://code.jquery.com/jquery-2.1.1.min.js
 // @require      http://code.jquery.com/ui/1.11.0/jquery-ui.min.js
-// @require      https://www.jqueryscript.net/demo/DataTables-Jquery-Table-Plugin/media/js/jquery.dataTables.js
+// require      https://www.jqueryscript.net/demo/DataTables-Jquery-Table-Plugin/media/js/jquery.dataTables.js
 // @resource      https://cdn.bootcdn.net/ajax/libs/jqueryui/1.13.2/themes/base/jquery-ui.css
 // @resource      https://www.jqueryscript.net/demo/DataTables-Jquery-Table-Plugin/media/css/jquery.dataTables_themeroller.css
 // @grant        none
